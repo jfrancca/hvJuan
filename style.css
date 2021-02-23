@@ -1,0 +1,33 @@
+body
+{
+    background-image: url(imagenes/empleo.jpg);
+}
+
+.tituloReferencias
+{
+    position: relative;
+    font-family: monospace;
+    border-style: inset;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(94, 115, 231);
+}
+
+.imgPersonal
+{
+    width: 100%;
+}
+
+.nombresDatosRef
+{
+    font-family: monospace;
+    text-align: center;
+    text-shadow: 2px 2px 5px rgb(94, 115, 231);
+}
+
+.nombresReferencias
+{
+    position: relative;
+    left: -15%;
+}
+
+
