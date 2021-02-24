@@ -1,15 +1,15 @@
 body
 {
-    background-image: url(imagenes/empleo.jpg);
+    background-image: url(imagenes/imgFondoPag.jpg);
 }
 
 .tituloReferencias
 {
     position: relative;
     font-family: monospace;
-    /* border-style: inset; */
-    /* text-align: center; */
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
+    color: blanchedalmond;
+    font-size: 70px;
 }
 
 .imgPersonal
@@ -17,18 +17,19 @@ body
     width: 100%;
 }
 
-.nombresDatosRef
+.titulosTarjetas
 {
     font-family: monospace;
-    /* text-align: center; */
+    color: blanchedalmond;
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
 }
 
-/* .nombresReferencias
+.textoTarjeta
 {
-    position: relative;
-    left: -15%;
-} */
+    font-family: monospace;
+    text-shadow: 2px 2px 5px rgb(94, 115, 231);
+}
+
 
 
 
