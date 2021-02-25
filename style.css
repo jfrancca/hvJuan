@@ -3,13 +3,13 @@ body
     background-image: url(imagenes/imgFondoPag.jpg);
 }
 
-.tituloReferencias
+.tituloTarjetas
 {
     position: relative;
     font-family: monospace;
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
     color: blanchedalmond;
-    font-size: 70px;
+    font-size: 60px;
 }
 
 .imgPersonal
