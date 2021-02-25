@@ -3,7 +3,7 @@ body
     background-image: url(imagenes/imgFondoPag.jpg);
 }
 
-.tituloTarjetas
+.tituloPagina
 {
     position: relative;
     font-family: monospace;
