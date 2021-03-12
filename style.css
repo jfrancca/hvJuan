@@ -3,14 +3,14 @@ body
     background-image: url(imagenes/imgFondoPag.jpg);
 }
 
-.tituloPagina
+/* .tituloPagina
 {
     position: relative;
     font-family: monospace;
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
     color: blanchedalmond;
     font-size: 60px;
-}
+} */
 
 .imgPersonal
 {
@@ -29,6 +29,19 @@ body
     font-family: monospace;
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
 }
+
+.tituloPagina
+        {
+            /* position: relative;
+            text-align: center; */
+            font-family: 'Fredericka the Great', cursive;
+            padding-left: 5px;
+            color: antiquewhite;
+            font-size: 2.5em;
+            text-shadow: #4c06f0e8 4px 4px 2px;
+            /* text-shadow: #4d4547e8 4px 4px 2px; */
+            font-size: 60px;
+        }
 
 
 
