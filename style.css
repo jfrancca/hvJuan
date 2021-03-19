@@ -3,17 +3,17 @@ body
     background-image: url(imagenes/imgFondoPag.jpg);
 }
 
-.imgPersonal
+/* .imgPersonal
 {
     width: 100%;
-}
+} */
 
-.titulosTarjetas
+/* .titulosTarjetas
 {
     font-family: monospace;
     color: blanchedalmond;
     text-shadow: 2px 2px 5px rgb(94, 115, 231);
-}
+} */
 
 .textoTarjeta
 {
